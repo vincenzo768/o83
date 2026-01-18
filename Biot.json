@@ -1,1 +1,2152 @@
 
+[
+  {
+    "id": "001",
+    "name": "Aaj tak",
+    "category": "News",
+    "server": "Zee5",
+    "switch": "✅"
+  },
+  {
+    "id": "002",
+    "name": "ABP News",
+    "category": "News",
+    "server": "YouTube ",
+    "switch": "❌"
+  },
+  {
+    "id": "003",
+    "name": "India News",
+    "category": "News",
+    "server": "Opplex ",
+    "switch": "✅"
+  },
+  {
+    "id": "004",
+    "name": "India TV",
+    "category": "News",
+    "server": "YouTube ",
+    "switch": "❌"
+  },
+  {
+    "id": "005",
+    "name": "India Today",
+    "category": "News",
+    "server": "Opplex ",
+    "switch": "✅"
+  },
+  {
+    "id": "006",
+    "name": "NDTV India",
+    "category": "News",
+    "server": "TV GARDEN",
+    "switch": "✅"
+  },
+  {
+    "id": "007",
+    "name": "NDTV 24x7",
+    "category": "News",
+    "server": "TV GARDEN",
+    "switch": "✅"
+  },
+  {
+    "id": "008",
+    "name": "News Nation",
+    "category": "News",
+    "server": "TV GARDEN",
+    "switch": "✅"
+  },
+  {
+    "id": "009",
+    "name": "News 24",
+    "category": "News",
+    "server": "TV GARDEN",
+    "switch": "✅"
+  },
+  {
+    "id": "010",
+    "name": "News 18 India",
+    "category": "News",
+    "server": "JIO TV",
+    "switch": "❌"
+  },
+  {
+    "id": "011",
+    "name": "Zee News",
+    "category": "News",
+    "server": "TV GARDEN",
+    "switch": "✅"
+  },
+  {
+    "id": "012",
+    "name": "Zee Bharat",
+    "category": "News",
+    "server": "Zee5",
+    "switch": "✅"
+  },
+  {
+    "id": "013",
+    "name": "Zee Punjab",
+    "category": "News",
+    "server": "Zee5",
+    "switch": "✅"
+  },
+  {
+    "id": "014",
+    "name": "Zee Rajashthan",
+    "category": "News",
+    "server": "Zee5",
+    "switch": "✅"
+  },
+  {
+    "id": "015",
+    "name": "Zee Madhya Pradesh",
+    "category": "News",
+    "server": "Zee5",
+    "switch": "✅"
+  },
+  {
+    "id": "016",
+    "name": "Zee Uttar Pradesh",
+    "category": "News",
+    "server": "Zee5",
+    "switch": "✅"
+  },
+  {
+    "id": "017",
+    "name": "Zee Business",
+    "category": "News",
+    "server": "Zee5",
+    "switch": "✅"
+  },
+  {
+    "id": "018",
+    "name": "Good News Today",
+    "category": "News",
+    "server": "Zee5",
+    "switch": "✅"
+  },
+  {
+    "id": "019",
+    "name": "DD News",
+    "category": "News",
+    "server": "TV GARDEN",
+    "switch": "✅"
+  },
+  {
+    "id": "020",
+    "name": "TV9 Bharatvarsh",
+    "category": "News",
+    "server": "TV GARDEN ",
+    "switch": "✅"
+  },
+  {
+    "id": "021",
+    "name": "Star Plus HD",
+    "category": "Entertainment",
+    "server": "Tplay",
+    "switch": "❌"
+  },
+  {
+    "id": "022",
+    "name": "Star Bharat",
+    "category": "Entertainment",
+    "server": "Opplex",
+    "switch": "❌"
+  },
+  {
+    "id": "023",
+    "name": "Zee TV",
+    "category": "Entertainment",
+    "server": "Zee5",
+    "switch": "✅"
+  },
+  {
+    "id": "024",
+    "name": "Colors HD",
+    "category": "Entertainment",
+    "server": "Opplex",
+    "switch": "✅"
+  },
+  {
+    "id": "025",
+    "name": "&tv",
+    "category": "Entertainment",
+    "server": "Zee5",
+    "switch": "✅"
+  },
+  {
+    "id": "026",
+    "name": "Sony Sab",
+    "category": "Entertainment",
+    "server": "No Sound",
+    "switch": "❌"
+  },
+  {
+    "id": "027",
+    "name": "Sony Sab HD",
+    "category": "Entertainment",
+    "server": "Sony liv",
+    "switch": "✅"
+  },
+  {
+    "id": "028",
+    "name": "Set HD",
+    "category": "Entertainment",
+    "server": "Sony liv",
+    "switch": "✅"
+  },
+  {
+    "id": "029",
+    "name": "Sony Pal",
+    "category": "Entertainment",
+    "server": "Sony Liv",
+    "switch": "✅"
+  },
+  {
+    "id": "030",
+    "name": "Big Magic",
+    "category": "Entertainment",
+    "server": "Zee5",
+    "switch": "✅"
+  },
+  {
+    "id": "031",
+    "name": "Colors Rishtey",
+    "category": "Entertainment",
+    "server": "TV GARDEN",
+    "switch": "✅"
+  },
+  {
+    "id": "032",
+    "name": "Star Utsav",
+    "category": "Entertainment",
+    "server": "Tplay",
+    "switch": "❌"
+  },
+  {
+    "id": "033",
+    "name": "Zee Anmol",
+    "category": "Entertainment",
+    "server": "Zee5",
+    "switch": "✅"
+  },
+  {
+    "id": "034",
+    "name": "Dangal",
+    "category": "Entertainment",
+    "server": "Opplex ",
+    "switch": "❌"
+  },
+  {
+    "id": "035",
+    "name": "Shemaro TV",
+    "category": "Entertainment",
+    "server": "Opplex",
+    "switch": "✅"
+  },
+  {
+    "id": "036",
+    "name": "Shemaro umag",
+    "category": "Entertainment",
+    "server": "JIO TV",
+    "switch": "❌"
+  },
+  {
+    "id": "037",
+    "name": "DD National",
+    "category": "Entertainment",
+    "server": "TV GARDEN ",
+    "switch": "✅"
+  },
+  {
+    "id": "038",
+    "name": "Star Gold",
+    "category": "Movies",
+    "server": "Tplay",
+    "switch": "❌"
+  },
+  {
+    "id": "039",
+    "name": "Star Gold 2",
+    "category": "Movies",
+    "server": "Opplex",
+    "switch": "✅"
+  },
+  {
+    "id": "040",
+    "name": "Star Gold Select",
+    "category": "Movies",
+    "server": "Jiotv+",
+    "switch": "❌"
+  },
+  {
+    "id": "041",
+    "name": "Star Gold Romance",
+    "category": "Movies",
+    "server": "Opplex",
+    "switch": "✅"
+  },
+  {
+    "id": "042",
+    "name": "Star Gold Thrills",
+    "category": "Movies",
+    "server": "Jiotv+",
+    "switch": "❌"
+  },
+  {
+    "id": "043",
+    "name": "Star Movies HD",
+    "category": "Movies",
+    "server": "Opplex",
+    "switch": "❌"
+  },
+  {
+    "id": "044",
+    "name": "Sony Max",
+    "category": "Movies",
+    "server": "Sony Liv",
+    "switch": "✅"
+  },
+  {
+    "id": "045",
+    "name": "Sony Max HD",
+    "category": "Movies",
+    "server": "Sony Liv",
+    "switch": "✅"
+  },
+  {
+    "id": "046",
+    "name": "Sony Max 2",
+    "category": "Movies",
+    "server": "Sony Liv",
+    "switch": "✅"
+  },
+  {
+    "id": "047",
+    "name": "Sony Wah",
+    "category": "Movies",
+    "server": "Sony Liv",
+    "switch": "✅"
+  },
+  {
+    "id": "048",
+    "name": "Sony Pix",
+    "category": "Movies",
+    "server": "Sony Liv",
+    "switch": "✅"
+  },
+  {
+    "id": "049",
+    "name": "Zee Cinema HD",
+    "category": "Movies",
+    "server": "Zee5",
+    "switch": "✅"
+  },
+  {
+    "id": "050",
+    "name": "Zee Bollywood",
+    "category": "Movies",
+    "server": "Zee5",
+    "switch": "✅"
+  },
+  {
+    "id": "051",
+    "name": "Zee Classic",
+    "category": "Movies",
+    "server": "Zee5",
+    "switch": "✅"
+  },
+  {
+    "id": "052",
+    "name": "Zee Action",
+    "category": "Movies",
+    "server": "Zee5",
+    "switch": "✅"
+  },
+  {
+    "id": "053",
+    "name": "& Pictures HD",
+    "category": "Movies",
+    "server": "Zee5",
+    "switch": "✅"
+  },
+  {
+    "id": "054",
+    "name": "& Flix HD",
+    "category": "Movies",
+    "server": "Zee5",
+    "switch": "✅"
+  },
+  {
+    "id": "055",
+    "name": "Colors Infinity",
+    "category": "Movies",
+    "server": "Opplex",
+    "switch": "✅"
+  },
+  {
+    "id": "056",
+    "name": "Colors Cineplex",
+    "category": "Movies",
+    "server": "Opplex",
+    "switch": "✅"
+  },
+  {
+    "id": "057",
+    "name": "Colors Cineplex HD",
+    "category": "Movies",
+    "server": "TV GARDEN ",
+    "switch": "✅"
+  },
+  {
+    "id": "058",
+    "name": "Colors Cineplex Bollywood",
+    "category": "Movies",
+    "server": "TV GARDEN ",
+    "switch": "✅"
+  },
+  {
+    "id": "059",
+    "name": "Colors Cineplex Superhit",
+    "category": "Movies",
+    "server": "TV GARDEN ",
+    "switch": "✅"
+  },
+  {
+    "id": "060",
+    "name": "B4U Movies",
+    "category": "Movies",
+    "server": "TV GARDEN ",
+    "switch": "✅"
+  },
+  {
+    "id": "061",
+    "name": "9XM",
+    "category": "Music",
+    "server": "TV GARDEN ",
+    "switch": "✅"
+  },
+  {
+    "id": "062",
+    "name": "9X Jalwa",
+    "category": "Music",
+    "server": "TV GARDEN ",
+    "switch": "✅"
+  },
+  {
+    "id": "063",
+    "name": "MTV",
+    "category": "Music",
+    "server": "Opplex ",
+    "switch": "✅"
+  },
+  {
+    "id": "064",
+    "name": "B4U Music",
+    "category": "Music",
+    "server": "TV GARDEN ",
+    "switch": "✅"
+  },
+  {
+    "id": "065",
+    "name": "Mastiii",
+    "category": "Music",
+    "server": "Opplex",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "066",
+    "name": "Music India",
+    "category": "Music",
+    "server": "TV GARDEN ",
+    "switch": "✅"
+  },
+  {
+    "id": "067",
+    "name": "Zoom",
+    "category": "Music",
+    "server": "TV GARDEN ",
+    "switch": "✅"
+  },
+  {
+    "id": "068",
+    "name": "MH1 Music",
+    "category": "Music",
+    "server": "JIO TV",
+    "switch": "❌"
+  },
+  {
+    "id": "069",
+    "name": "YRF Music",
+    "category": "Music",
+    "server": "JIO TV",
+    "switch": "❌"
+  },
+  {
+    "id": "070",
+    "name": "Show Box TV",
+    "category": "Music",
+    "server": "TV GARDEN ",
+    "switch": "✅"
+  },
+  {
+    "id": "071",
+    "name": "Zing",
+    "category": "Music",
+    "server": "Zee5",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "072",
+    "name": "Nick",
+    "category": "Kids",
+    "server": "Opplex",
+    "switch": "✅"
+  },
+  {
+    "id": "073",
+    "name": "Pogo",
+    "category": "Kids",
+    "server": "Opplex",
+    "switch": "✅"
+  },
+  {
+    "id": "074",
+    "name": "Cartoon Network",
+    "category": "Kids",
+    "server": "Opplex ",
+    "switch": "✅"
+  },
+  {
+    "id": "075",
+    "name": "Super Hungama",
+    "category": "Kids",
+    "server": "Jiotv+",
+    "switch": "❌"
+  },
+  {
+    "id": "076",
+    "name": "Hungama",
+    "category": "Kids",
+    "server": "Opplex",
+    "switch": "✅"
+  },
+  {
+    "id": "077",
+    "name": "Disney",
+    "category": "Kids",
+    "server": "Opplex",
+    "switch": "â"
+  },
+  {
+    "id": "078",
+    "name": "Sony Yay",
+    "category": "Kids",
+    "server": "Sony Liv",
+    "switch": "✅"
+  },
+  {
+    "id": "079",
+    "name": "Sonic",
+    "category": "Kids",
+    "server": "Opplex",
+    "switch": "❌"
+  },
+  {
+    "id": "080",
+    "name": "Nick jr",
+    "category": "Kids",
+    "server": "Opplex",
+    "switch": "✅"
+  },
+  {
+    "id": "081",
+    "name": "Motu Patlu Server 1",
+    "category": "Kids",
+    "server": "Opplex",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "082",
+    "name": "Motu Patlu Server 2",
+    "category": "Kids",
+    "server": "Opplex",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "083",
+    "name": "Doraemon 24x7",
+    "category": "Kids",
+    "server": "Opplex",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "084",
+    "name": "Shinchan 24x7",
+    "category": "Kids",
+    "server": "Ktv",
+    "switch": "❌"
+  },
+  {
+    "id": "085",
+    "name": "Chhota Bheem",
+    "category": "Kids",
+    "server": "Opplex",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "086",
+    "name": "Tom & Jerry",
+    "category": "Kids",
+    "server": "Opplex ",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "087",
+    "name": "History TV 18",
+    "category": "Informaint",
+    "server": "TV GARDEN",
+    "switch": "✅"
+  },
+  {
+    "id": "088",
+    "name": "Epic TV",
+    "category": "Informaint",
+    "server": "TV GARDEN ",
+    "switch": "✅"
+  },
+  {
+    "id": "089",
+    "name": "BBC Earth",
+    "category": "Informaint",
+    "server": "Sony Liv",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "090",
+    "name": "National Geographic",
+    "category": "Informaint",
+    "server": "Opplex ",
+    "switch": "â"
+  },
+  {
+    "id": "091",
+    "name": "Discovery Science",
+    "category": "Informaint",
+    "server": "Opplex",
+    "switch": "✅"
+  },
+  {
+    "id": "092",
+    "name": "Discovery Channel",
+    "category": "Informaint",
+    "server": "JIO TV",
+    "switch": "❌"
+  },
+  {
+    "id": "093",
+    "name": "Animal Planet",
+    "category": "Informaint",
+    "server": "Opplex",
+    "switch": "✅"
+  },
+  {
+    "id": "094",
+    "name": "DD Sports",
+    "category": "Sports",
+    "server": "TV GARDEN ",
+    "switch": "✅"
+  },
+  {
+    "id": "095",
+    "name": "Star Sports 1 HD",
+    "category": "Sports",
+    "server": "Tplay",
+    "switch": "❌"
+  },
+  {
+    "id": "096",
+    "name": "Star Sports 1 Hindi",
+    "category": "Sports",
+    "server": "Tplay",
+    "switch": "❌"
+  },
+  {
+    "id": "097",
+    "name": "Star Sports 2",
+    "category": "Sports",
+    "server": "Tplay",
+    "switch": "❌"
+  },
+  {
+    "id": "098",
+    "name": "Star Sports Khel",
+    "category": "Sports",
+    "server": "JIO TV",
+    "switch": "❌"
+  },
+  {
+    "id": "099",
+    "name": "Star Sports Select 1",
+    "category": "Sports",
+    "server": "Tplay",
+    "switch": "❌"
+  },
+  {
+    "id": "100",
+    "name": "Star Sports Select 2",
+    "category": "Sports",
+    "server": "Tplay",
+    "switch": "❌"
+  },
+  {
+    "id": "101",
+    "name": "Sony Sports Ten 1",
+    "category": "Sports",
+    "server": "Sony Liv",
+    "switch": "✅"
+  },
+  {
+    "id": "102",
+    "name": "Sony Sports Ten 2",
+    "category": "Sports",
+    "server": "Sony Liv",
+    "switch": "✅"
+  },
+  {
+    "id": "103",
+    "name": "Sony Sports Ten 3",
+    "category": "Sports",
+    "server": "Sony Liv",
+    "switch": "✅"
+  },
+  {
+    "id": "104",
+    "name": "Sony Sports Ten 4",
+    "category": "Sports",
+    "server": "Sony Liv",
+    "switch": "✅"
+  },
+  {
+    "id": "105",
+    "name": "Sony Sports Ten 5",
+    "category": "Sports",
+    "server": "Sony Liv",
+    "switch": "✅"
+  },
+  {
+    "id": "106",
+    "name": "Aastha",
+    "category": "Devotional",
+    "server": "TV GARDEN",
+    "switch": "✅"
+  },
+  {
+    "id": "107",
+    "name": "Sadhna",
+    "category": "Devotional",
+    "server": "TV GARDEN",
+    "switch": "✅"
+  },
+  {
+    "id": "108",
+    "name": "Sanskar",
+    "category": "Devotional",
+    "server": "TV GARDEN",
+    "switch": "✅"
+  },
+  {
+    "id": "109",
+    "name": "Arihant TV",
+    "category": "Devotional",
+    "server": "JIO TV",
+    "switch": "❌"
+  },
+  {
+    "id": "110",
+    "name": "Satsang TV",
+    "category": "Devotional",
+    "server": "TV GARDEN",
+    "switch": "✅"
+  },
+  {
+    "id": "111",
+    "name": "Divya TV",
+    "category": "Devotional",
+    "server": "JIO TV",
+    "switch": "❌"
+  },
+  {
+    "id": "112",
+    "name": "Shubh TV",
+    "category": "Devotional",
+    "server": "TV GARDEN",
+    "switch": "✅"
+  },
+  {
+    "id": "113",
+    "name": "Kripa TV",
+    "category": "Devotional",
+    "server": "JIO TV",
+    "switch": "❌"
+  },
+  {
+    "id": "114",
+    "name": "Disha TV",
+    "category": "Devotional",
+    "server": "JIO TV",
+    "switch": "❌"
+  },
+  {
+    "id": "115",
+    "name": "Ishwar TV",
+    "category": "Devotional",
+    "server": "TV GARDEN",
+    "switch": "✅"
+  },
+  {
+    "id": "116",
+    "name": "Chardikla Times TV",
+    "category": "Punjabi",
+    "server": "7765",
+    "switch": "✅"
+  },
+  {
+    "id": "117",
+    "name": "9X Tashan",
+    "category": "Punjabi",
+    "server": "JIO TV",
+    "switch": "❌"
+  },
+  {
+    "id": "118",
+    "name": "MH1",
+    "category": "Punjabi",
+    "server": "JIO TV",
+    "switch": "❌"
+  },
+  {
+    "id": "119",
+    "name": "Garv Punjab Gurbani",
+    "category": "Punjabi",
+    "server": "Opplex",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "120",
+    "name": "Pitara",
+    "category": "Punjabi",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "121",
+    "name": "PTC News",
+    "category": "Punjabi",
+    "server": "JIO TV",
+    "switch": "❌"
+  },
+  {
+    "id": "122",
+    "name": "PTC Punjabi",
+    "category": "Punjabi",
+    "server": "JIO TV",
+    "switch": "❌"
+  },
+  {
+    "id": "123",
+    "name": "PTC Chakde",
+    "category": "Punjabi",
+    "server": "Jiotv+",
+    "switch": "❌"
+  },
+  {
+    "id": "124",
+    "name": "PTC Music",
+    "category": "Punjabi",
+    "server": "JIO TV",
+    "switch": "❌"
+  },
+  {
+    "id": "125",
+    "name": "PTC Simran",
+    "category": "Punjabi",
+    "server": "JIO TV",
+    "switch": "❌"
+  },
+  {
+    "id": "126",
+    "name": "Punjabi Hits",
+    "category": "Punjabi",
+    "server": "JIO TV",
+    "switch": "❌"
+  },
+  {
+    "id": "127",
+    "name": "Ghaint Punjabi",
+    "category": "Punjabi",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "128",
+    "name": "ABP Ananda",
+    "category": "Bengali",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "129",
+    "name": "Zee 24 Ghanta",
+    "category": "Bengali",
+    "server": "Home W.S",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "130",
+    "name": "Republic Bangla",
+    "category": "Bengali",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "131",
+    "name": "Kolkata TV",
+    "category": "Bengali",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "132",
+    "name": "Star Jalsa",
+    "category": "Bengali",
+    "server": "Tplay",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "133",
+    "name": "Zee Bangla",
+    "category": "Bengali",
+    "server": "Zee5",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "134",
+    "name": "Colours Bangla",
+    "category": "Bengali",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "135",
+    "name": "Sun Bangla",
+    "category": "Bengali",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "136",
+    "name": "Sony Aath",
+    "category": "Bengali",
+    "server": "Sony Liv",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "137",
+    "name": "Star Jalsha Movies",
+    "category": "Bengali",
+    "server": "Tplay",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "138",
+    "name": "Zee Bangla Movies",
+    "category": "Bengali",
+    "server": "Zee5",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "139",
+    "name": "Colors Bangla Movies",
+    "category": "Bengali",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "140",
+    "name": "Sangeet Bangla",
+    "category": "Bengali",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "141",
+    "name": "Dhoom Music",
+    "category": "Bengali",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "142",
+    "name": "Nick Bangla",
+    "category": "Bengali",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "143",
+    "name": "Sonic Bangla",
+    "category": "Bengali",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "144",
+    "name": "OTV News",
+    "category": "Odia",
+    "server": "Home W.S",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "145",
+    "name": "Kalinga TV",
+    "category": "Odia",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "146",
+    "name": "Kanak News",
+    "category": "Odia",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "147",
+    "name": "Prameya News 7",
+    "category": "Odia",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "148",
+    "name": "Nandighosha",
+    "category": "Odia",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "149",
+    "name": "News 18 Odia",
+    "category": "Odia",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "150",
+    "name": "Star Kiran",
+    "category": "Odia",
+    "server": "No Server",
+    "switch": "â"
+  },
+  {
+    "id": "151",
+    "name": "Colors Odia",
+    "category": "Odia",
+    "server": "No Server",
+    "switch": "â"
+  },
+  {
+    "id": "152",
+    "name": "Zee Sarthak",
+    "category": "Odia",
+    "server": "Zee5",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "153",
+    "name": "Tarang TV",
+    "category": "Odia",
+    "server": "No Server",
+    "switch": "â"
+  },
+  {
+    "id": "154",
+    "name": "Tarang Music",
+    "category": "Odia",
+    "server": "Line.rs",
+    "switch": "â"
+  },
+  {
+    "id": "155",
+    "name": "Sidharth Gold",
+    "category": "Odia",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "156",
+    "name": "Sidharth Utsav",
+    "category": "Odia",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "157",
+    "name": "ABP majha",
+    "category": "Marathi",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "158",
+    "name": "Zee 24 Taas",
+    "category": "Marathi",
+    "server": "Zee5",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "159",
+    "name": "News 18 Lokmat",
+    "category": "Marathi",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "160",
+    "name": "TV9 Marathi",
+    "category": "Marathi",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "161",
+    "name": "Jai Maharashtra",
+    "category": "Marathi",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "162",
+    "name": "Saam TV",
+    "category": "Marathi",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "163",
+    "name": "MKN News",
+    "category": "Marathi",
+    "server": "JIO TV",
+    "switch": "â"
+  },
+  {
+    "id": "164",
+    "name": "Star Pravah",
+    "category": "Marathi",
+    "server": "Jiotv+",
+    "switch": "â"
+  },
+  {
+    "id": "165",
+    "name": "Zee Marathi HD",
+    "category": "Marathi",
+    "server": "Zee5",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "166",
+    "name": "Colors Marathi",
+    "category": "Marathi",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "167",
+    "name": "Sony Marathi",
+    "category": "Marathi",
+    "server": "Sony Liv",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "168",
+    "name": "Zee Talkies",
+    "category": "Marathi",
+    "server": "Zee5",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "169",
+    "name": "9X Jhakkas",
+    "category": "Marathi",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "170",
+    "name": "Sangeet Marathi",
+    "category": "Marathi",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "171",
+    "name": "Sun News",
+    "category": "Tamil",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "172",
+    "name": "News Tamil 24x7",
+    "category": "Tamil",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "173",
+    "name": "News 18 Tamil Nadu",
+    "category": "Tamil",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "174",
+    "name": "Star Vijay",
+    "category": "Tamil",
+    "server": "Tplay",
+    "switch": "â"
+  },
+  {
+    "id": "175",
+    "name": "Zee Tamil",
+    "category": "Tamil",
+    "server": "Zee5",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "176",
+    "name": "Colors Tamil",
+    "category": "Tamil",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "177",
+    "name": "Sun TV",
+    "category": "Tamil",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "178",
+    "name": "Mega TV",
+    "category": "Tamil",
+    "server": "Tplay",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "179",
+    "name": "Kalaignar TV",
+    "category": "Tamil",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "180",
+    "name": "Puthuyougam TV",
+    "category": "Tamil",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "181",
+    "name": "Sun Life",
+    "category": "Tamil",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "182",
+    "name": "J. Movies",
+    "category": "Tamil",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "183",
+    "name": "KTV",
+    "category": "Tamil",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "184",
+    "name": "Raaj Music",
+    "category": "Tamil",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "185",
+    "name": "Sun Music",
+    "category": "Tamil",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "186",
+    "name": "Big TV",
+    "category": "Telugu",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "187",
+    "name": "I News",
+    "category": "Telugu",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "188",
+    "name": "10 TV",
+    "category": "Telugu",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "189",
+    "name": "V6 News",
+    "category": "Telugu",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "190",
+    "name": "T News",
+    "category": "Telugu",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "191",
+    "name": "CVR News",
+    "category": "Telugu",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "192",
+    "name": "TV9 Telugu News",
+    "category": "Telugu",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "193",
+    "name": "ETV Telugu",
+    "category": "Telugu",
+    "server": "Jiotv+",
+    "switch": "â"
+  },
+  {
+    "id": "194",
+    "name": "ETV Plus",
+    "category": "Telugu",
+    "server": "Jiotv+",
+    "switch": "â"
+  },
+  {
+    "id": "195",
+    "name": "ETV Abhiruchi",
+    "category": "Telugu",
+    "server": "Jiotv+",
+    "switch": "â"
+  },
+  {
+    "id": "196",
+    "name": "Star Maa",
+    "category": "Telugu",
+    "server": "Tplay ",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "197",
+    "name": "Zee Telugu",
+    "category": "Telugu",
+    "server": "Zee5",
+    "switch": "❌"
+  },
+  {
+    "id": "198",
+    "name": "Gemini TV",
+    "category": "Telugu",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "199",
+    "name": "Gemini Comedy",
+    "category": "Telugu",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "200",
+    "name": "ETV Cinema",
+    "category": "Telugu",
+    "server": "Jiotv+",
+    "switch": "â"
+  },
+  {
+    "id": "201",
+    "name": "Gemini Movies",
+    "category": "Telugu",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "202",
+    "name": "Zee Cinemalu",
+    "category": "Telugu",
+    "server": "Zee5",
+    "switch": "❌"
+  },
+  {
+    "id": "203",
+    "name": "Star Maa Movies",
+    "category": "Telugu",
+    "server": "Jiotv+",
+    "switch": "â"
+  },
+  {
+    "id": "204",
+    "name": "ETV Life",
+    "category": "Telugu",
+    "server": "Jiotv+",
+    "switch": "â"
+  },
+  {
+    "id": "205",
+    "name": "Pogo",
+    "category": "Telugu",
+    "server": "Jiotv+",
+    "switch": "â"
+  },
+  {
+    "id": "206",
+    "name": "Cartoon Network",
+    "category": "Telugu",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "207",
+    "name": "ABP Ashmita",
+    "category": "Gujrati",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "208",
+    "name": "Sandesh News",
+    "category": "Gujrati",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "209",
+    "name": "TV9 Gujrati",
+    "category": "Gujrati",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "210",
+    "name": "VTV News",
+    "category": "Gujrati",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "211",
+    "name": "News 18 Gujarati",
+    "category": "Gujrati",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "212",
+    "name": "GS TV",
+    "category": "Gujrati",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "213",
+    "name": "Colors Gujrati",
+    "category": "Gujrati",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "214",
+    "name": "Colors Gujarati Cinema",
+    "category": "Gujrati",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "215",
+    "name": "TV9 Kannada",
+    "category": "Kannada",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "216",
+    "name": "Asianet News",
+    "category": "Kannada",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "217",
+    "name": "Public TV",
+    "category": "Kannada",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "218",
+    "name": "News 18 Kannada",
+    "category": "Kannada",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "219",
+    "name": "TV5",
+    "category": "Kannada",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "220",
+    "name": "Raj News",
+    "category": "Kannada",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "221",
+    "name": "Power TV",
+    "category": "Kannada",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "222",
+    "name": "News First",
+    "category": "Kannada",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "223",
+    "name": "Star Suvarna",
+    "category": "Kannada",
+    "server": "Tplay",
+    "switch": "â"
+  },
+  {
+    "id": "224",
+    "name": "Zee Kannada",
+    "category": "Kannada",
+    "server": "Zee5",
+    "switch": "❌"
+  },
+  {
+    "id": "225",
+    "name": "Colors Kannada",
+    "category": "Kannada",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "226",
+    "name": "Colors Super",
+    "category": "Kannada",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "227",
+    "name": "Udaya HD",
+    "category": "Kannada",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "228",
+    "name": "Siri Kannada",
+    "category": "Kannada",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "229",
+    "name": "Zee Picchar",
+    "category": "Kannada",
+    "server": "Tplay",
+    "switch": "❌"
+  },
+  {
+    "id": "230",
+    "name": "Colors Cinema",
+    "category": "Kannada",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "231",
+    "name": "Udaya Movies",
+    "category": "Kannada",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "232",
+    "name": "Public Movies",
+    "category": "Kannada",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "233",
+    "name": "Udaya Music",
+    "category": "Kannada",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "234",
+    "name": "Raj Music",
+    "category": "Kannada",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "235",
+    "name": "Public Music",
+    "category": "Kannada",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "236",
+    "name": "News 18 Kerala",
+    "category": "Malyalam",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "237",
+    "name": "Janam TV",
+    "category": "Malyalam",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "238",
+    "name": "Jeevan TV",
+    "category": "Malyalam",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "239",
+    "name": "Kairali TV",
+    "category": "Malyalam",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "240",
+    "name": "Kaumudy TV",
+    "category": "Malyalam",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "241",
+    "name": "Manorama News",
+    "category": "Malyalam",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "242",
+    "name": "Mathrubhumi News",
+    "category": "Malyalam",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "243",
+    "name": "Media One TV",
+    "category": "Malyalam",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "244",
+    "name": "Reporter TV",
+    "category": "Malyalam",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "245",
+    "name": "Asianet HD",
+    "category": "Malyalam",
+    "server": "Tplay",
+    "switch": "â"
+  },
+  {
+    "id": "246",
+    "name": "Asianet Plus",
+    "category": "Malyalam",
+    "server": "Tplay",
+    "switch": "â"
+  },
+  {
+    "id": "247",
+    "name": "Surya HD",
+    "category": "Malyalam",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "248",
+    "name": "Zee Keralam HD",
+    "category": "Malyalam",
+    "server": "Zee5",
+    "switch": "❌"
+  },
+  {
+    "id": "249",
+    "name": "Flowers TV",
+    "category": "Malyalam",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "250",
+    "name": "Mazhavil Manoranjan",
+    "category": "Malyalam",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "252",
+    "name": "Amrita TV",
+    "category": "Malyalam",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "253",
+    "name": "We TV",
+    "category": "Malyalam",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "254",
+    "name": "Safari TV",
+    "category": "Malyalam",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "255",
+    "name": "Surya Comedy",
+    "category": "Malyalam",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "256",
+    "name": "Asianet Movies",
+    "category": "Malyalam",
+    "server": "Tplay",
+    "switch": "â"
+  },
+  {
+    "id": "257",
+    "name": "Surya Movies",
+    "category": "Malyalam",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "258",
+    "name": "Surya Music",
+    "category": "Malyalam",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "259",
+    "name": "Raj Music",
+    "category": "Malyalam",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "260",
+    "name": "Geo News",
+    "category": "Pakistani",
+    "server": "Opplex",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "261",
+    "name": "Ary News",
+    "category": "Pakistani",
+    "server": "Opplex",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "262",
+    "name": "Duniya News",
+    "category": "Pakistani",
+    "server": "Opplex",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "263",
+    "name": "Express News",
+    "category": "Pakistani",
+    "server": "Opplex",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "264",
+    "name": "Sama TV",
+    "category": "Pakistani",
+    "server": "Opplex",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "265",
+    "name": "Bol News",
+    "category": "Pakistani",
+    "server": "Opplex",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "266",
+    "name": "92 News HD",
+    "category": "Pakistani",
+    "server": "Opplex",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "267",
+    "name": "Hum News",
+    "category": "Pakistani",
+    "server": "Opplex",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "268",
+    "name": "Hum TV",
+    "category": "Pakistani",
+    "server": "Opplex",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "269",
+    "name": "ARY Digital",
+    "category": "Pakistani",
+    "server": "Opplex",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "270",
+    "name": "Geo Entertainment",
+    "category": "Pakistani",
+    "server": "Opplex",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "271",
+    "name": "Express Entertainment",
+    "category": "Pakistani",
+    "server": "Opplex",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "272",
+    "name": "A Plus",
+    "category": "Pakistani",
+    "server": "Opplex",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "273",
+    "name": "Bol Entertainment",
+    "category": "Pakistani",
+    "server": "Opplex",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "274",
+    "name": "Green TV",
+    "category": "Pakistani",
+    "server": "Opplex",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "275",
+    "name": "Flimazia",
+    "category": "Pakistani",
+    "server": "Opplex",
+    "switch": "â"
+  },
+  {
+    "id": "276",
+    "name": "Hum Sitare",
+    "category": "Pakistani",
+    "server": "Opplex",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "277",
+    "name": "ARY Music",
+    "category": "Pakistani",
+    "server": "Opplex",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "278",
+    "name": "8XM",
+    "category": "Pakistani",
+    "server": "Opplex",
+    "switch": "â"
+  },
+  {
+    "id": "279",
+    "name": "Discovery Kids",
+    "category": "Kids",
+    "server": "Opplex",
+    "switch": "✅"
+  },
+  {
+    "id": "280",
+    "name": "Zee Punjabi",
+    "category": "Punjabi",
+    "server": "Zee5",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "281",
+    "name": "Premium",
+    "category": "Pakistani",
+    "server": "Premium",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "282",
+    "name": "Udaya Comedy",
+    "category": "Kannada",
+    "server": "Jiotv+",
+    "switch": "â"
+  },
+  {
+    "id": "283",
+    "name": "Sakshi TV",
+    "category": "Telugu",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "284",
+    "name": "NTV Telugu",
+    "category": "Telugu",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "285",
+    "name": "ABN News",
+    "category": "Telugu",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "286",
+    "name": "TV5 Telugu",
+    "category": "Telugu",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "287",
+    "name": "ETV Andhra Pradesh",
+    "category": "Telugu",
+    "server": "Jiotv+",
+    "switch": "â"
+  },
+  {
+    "id": "288",
+    "name": "Mahaa News",
+    "category": "Telugu",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "289",
+    "name": "Prime 9 News",
+    "category": "Telugu",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "290",
+    "name": "HMTV",
+    "category": "Telugu",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "291",
+    "name": "Star Maa Gold",
+    "category": "Telugu",
+    "server": "Jiotv+",
+    "switch": "â"
+  },
+  {
+    "id": "292",
+    "name": "Star Maa Music",
+    "category": "Telugu",
+    "server": "Jiotv+",
+    "switch": "â"
+  },
+  {
+    "id": "293",
+    "name": "Gemini Music",
+    "category": "Telugu",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "294",
+    "name": "Gemini Life",
+    "category": "Telugu",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "295",
+    "name": "Khushi TV",
+    "category": "Telugu",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "296",
+    "name": "Star Sports Telugu",
+    "category": "Telugu",
+    "server": "Jiotv+",
+    "switch": "â"
+  },
+  {
+    "id": "297",
+    "name": "Bhakthi TV",
+    "category": "Telugu",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "298",
+    "name": "SVBC",
+    "category": "Telugu",
+    "server": "http://mini.allinonereborn.online/miniotv-ww/app/ts_live_1417.m3u8JIO TV",
+    "switch": "â"
+  },
+  {
+    "id": "299",
+    "name": "PMC",
+    "category": "Telugu",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "300",
+    "name": "CVR Om Spiritual",
+    "category": "Telugu",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "301",
+    "name": "CVR Health",
+    "category": "Telugu",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "302",
+    "name": "Vanitha TV",
+    "category": "Telugu",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "303",
+    "name": "Subhavartha",
+    "category": "Telugu",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "304",
+    "name": "Aradhna",
+    "category": "Telugu",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "305",
+    "name": "Divya Vani",
+    "category": "Telugu",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "307",
+    "name": "Calvary TV",
+    "category": "Telugu",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "308",
+    "name": "Vissa TV",
+    "category": "Telugu",
+    "server": "JIO TV",
+    "switch": "Ã¢ÂÂ"
+  },
+  {
+    "id": "309",
+    "name": "Big Boss season 19",
+    "category": "Entertainment",
+    "server": "Opplex",
+    "switch": "✅"
+  }
+]
