@@ -32,7 +32,7 @@
     "name": "India Today",
     "category": "News",
     "server": "Opplex ",
-    "switch": "❌"
+    "switch": "✅"
   },
   {
     "id": "006",
@@ -60,7 +60,7 @@
     "name": "News 24",
     "category": "News",
     "server": "TV GARDEN",
-    "switch": "❌"
+    "switch": "✅"
   },
   {
     "id": "010",
@@ -102,7 +102,7 @@
     "name": "Zee Madhya Pradesh",
     "category": "News",
     "server": "Zee5",
-    "switch": "❌"
+    "switch": "✅"
   },
   {
     "id": "016",
