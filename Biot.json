@@ -11,21 +11,21 @@
     "name": "ABP News",
     "category": "News",
     "server": "YouTube ",
-    "switch": "❌"
+    "switch": "✅"
   },
   {
     "id": "003",
     "name": "India News",
     "category": "News",
     "server": "Opplex ",
-    "switch": "❌"
+    "switch": "✅"
   },
   {
     "id": "004",
     "name": "India TV",
     "category": "News",
     "server": "YouTube ",
-    "switch": "❌"
+    "switch": "✅"
   },
   {
     "id": "005",
