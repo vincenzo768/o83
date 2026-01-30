@@ -787,15 +787,15 @@
     "id": "113",
     "name": "Kripa TV",
     "category": "Devotional",
-    "server": "JIO TV",
-    "switch": "❌"
+    "server": "J",
+    "switch": "✅"
   },
   {
     "id": "114",
     "name": "Disha TV",
     "category": "Devotional",
-    "server": "TV Garden",
-    "switch": "❌"
+    "server": "J",
+    "switch": "✅"
   },
   {
     "id": "115",
