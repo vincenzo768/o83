@@ -2140,5 +2140,12 @@
     "category": "Entertainment",
     "server": "CLOSED",
     "switch": "❌"
+  },
+  {
+    "id": "310",
+    "name": "PTC Punjabi Gold",
+    "category": "Punjabi",
+    "server": "NIRMA",
+    "switch": "✅"
   }
 ]
