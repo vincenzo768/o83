@@ -1704,7 +1704,7 @@
     "id": "245",
     "name": "Asianet HD",
     "category": "Malyalam",
-    "server": "",
+    "server": "EXTERNAL",
     "switch": "✅"
   },
   {
