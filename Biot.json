@@ -1704,7 +1704,7 @@
     "id": "245",
     "name": "Asianet HD",
     "category": "Malyalam",
-    "server": "❌",
+    "server": "OPPLEX",
     "switch": "✅"
   },
   {
@@ -1712,7 +1712,7 @@
     "name": "Asianet Plus",
     "category": "Malyalam",
     "server": "❌",
-    "switch": "✅"
+    "switch": "❌"
   },
   {
     "id": "247",
